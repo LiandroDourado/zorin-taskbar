@@ -1398,12 +1398,12 @@ msgstr ""
 
 #: ui/SettingsStyle.ui.h:4
 msgid "App Icon Padding"
-msgstr ""
+msgstr "Preencher ícones de aplicativos"
 
 #: ui/SettingsStyle.ui.h:5
 #, fuzzy
 msgid "(default is 4)"
-msgstr ""
+msgstr "(padrão é 4)"
 "Espessura do painel\n"
 "(padrão é 48)"
 
@@ -1464,16 +1464,16 @@ msgstr "Ocultação inteligente do painel"
 
 #: ui/SettingsStyle.ui.h:23
 msgid "Override panel theme background color"
-msgstr ""
+msgstr "Substituir a cor de fundo do tema do painel"
 
 #: ui/SettingsStyle.ui.h:24
 msgid "Override panel theme background opacity"
-msgstr ""
+msgstr "Substituir a opacidade do plano de fundo do tema do painel"
 
 #: ui/SettingsStyle.ui.h:26
 #, no-c-format
 msgid "Panel background opacity (%)"
-msgstr ""
+msgstr "Opacidade do fundo do painel (%)"
 
 #: ui/SettingsStyle.ui.h:28
 #, fuzzy
@@ -1482,21 +1482,21 @@ msgstr "Opções de opacidade dinâmica"
 
 #: ui/SettingsStyle.ui.h:29
 msgid "Change opacity when a window gets close to the panel"
-msgstr ""
+msgstr "Alterar opacidade quando uma janela se aproxima do painel"
 
 #: ui/SettingsStyle.ui.h:30
 msgid "Override panel theme gradient"
-msgstr ""
+msgstr "Substituir tema do painel"
 
 #: ui/SettingsStyle.ui.h:32
 #, no-c-format
 msgid "Gradient top color and opacity (%)"
-msgstr ""
+msgstr "Cor superior e opacidade (%)"
 
 #: ui/SettingsStyle.ui.h:34
 #, no-c-format
 msgid "Gradient bottom color and opacity (%)"
-msgstr ""
+msgstr "Cor de fundo e opacidade (%)"
 
 msgid "Weekday"
 msgstr "Dia de semana"
